@@ -2,6 +2,5 @@
 title: "Community"
 format: html
 ---
-![Scrimshaw Community Mealshare](media/Distro.jpg){width=800}
 
-
+![Scrimshaw Community Mealshare](media/Distro.jpg){width="800"}
