@@ -9,12 +9,13 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Research.qmd
+      - Experience.qmd
+      - Community.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: solar
     css: styles.css
     toc: true
 
