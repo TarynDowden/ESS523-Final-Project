@@ -15,7 +15,7 @@ website:
 
 format:
   html:
-    theme: midnight
+    theme: solar
     css: styles.css
     toc: true
 
