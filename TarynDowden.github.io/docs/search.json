@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "As part of a group effort from teams at NASA, University of Nevada Reno, and Colorado State University, I am currently working on a project relating data produced from Aerial Laser Scanning (ALS) and Terrestrial Laser Scanning (TLS) to fuel models. This project also serve as the topic of my thesis for my MS program. The overarching goal of the project includes developing a standardized and comprehensive 3D fuels database derived from in situ and airborne remote sensing data, and use these data sets to calibrate and validate LANDFIRE’s core fuels metrics at a national scale on a subannual basis, and to develop workflows to properly characterize the spatio-temporal uncertainties in these fuels estimates. My portion of the project involves relating existing ALS data to forest canopy fuel predictions."
+  },
+  {
+    "objectID": "Research.html#in-progress---aerial-lidar-for-canopy-structure",
+    "href": "Research.html#in-progress---aerial-lidar-for-canopy-structure",
+    "title": "Research",
+    "section": "",
+    "text": "As part of a group effort from teams at NASA, University of Nevada Reno, and Colorado State University, I am currently working on a project relating data produced from Aerial Laser Scanning (ALS) and Terrestrial Laser Scanning (TLS) to fuel models. This project also serve as the topic of my thesis for my MS program. The overarching goal of the project includes developing a standardized and comprehensive 3D fuels database derived from in situ and airborne remote sensing data, and use these data sets to calibrate and validate LANDFIRE’s core fuels metrics at a national scale on a subannual basis, and to develop workflows to properly characterize the spatio-temporal uncertainties in these fuels estimates. My portion of the project involves relating existing ALS data to forest canopy fuel predictions."
+  },
+  {
+    "objectID": "Experience.html",
+    "href": "Experience.html",
+    "title": "Field Experience",
+    "section": "",
+    "text": "Rocky Mountain Research Station\nMy previous field experience comes from my time working with USFS Rocky Mountain Research Center as a research technician. I worked with Research Scientists Mike Battaglia and Wade Tinkham on a variety of different projects. Field work included completing fixed radius plots mapping trees and recording height and diameter, as well as evaluation vegetation and fuel characteristics. I evaluated vegetation cover and fuel photoloads, collecting destructive fuels samples to bring back to the lab for developing a correction curve for these estimates. This data was used for managing fuel treatments in different ecosystems and to provide ground-truthing for the development of UAS Structure-from-Motion models."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -11,7 +32,7 @@
     "href": "Community.html",
     "title": "Community",
     "section": "",
-    "text": "Scrimshaw Community Mealshare"
+    "text": "Community Involvement\n\n\n\nScrimshaw Community Mealshare\n\n\nOutside of my professional career, involvement in my local community is equally as important in my opinion. I am heavily involved in disability activism and advocacy through a group called Cripple Punk Alliance. One regular event we hold is a weekly community mealshare, where people who are unhoused or in-need in other ways are able to come get a hot meal, some clean clothes, vital supplies, and have a safe place to relax and talk with their community."
   },
   {
     "objectID": "index.html",
