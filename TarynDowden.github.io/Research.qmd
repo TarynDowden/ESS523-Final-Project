@@ -3,3 +3,8 @@ title: "Research"
 format: html
 ---
 
+# Francis Forest Ecology Lab
+
+## In progress - Aerial LIDAR for Canopy Structure
+
+As part of a group effort from teams at NASA, University of Nevada Reno, and Colorado State University, I am currently working on a project relating data produced from Aerial Laser Scanning (ALS) and Terrestrial Laser Scanning (TLS) to fuel models. This project also serve as the topic of my thesis for my MS program. The overarching goal of the project includes developing a standardized  and comprehensive 3D fuels database  derived from in situ and airborne remote sensing data, and use these data sets to calibrate and validate LANDFIRE’s core fuels metrics at a national scale on a subannual basis, and to develop workflows to properly characterize the spatio-temporal uncertainties in these fuels estimates. My portion of the project involves relating existing ALS data to forest canopy fuel predictions.
