@@ -2,5 +2,8 @@
 title: "Community"
 format: html
 image: media/Distro.jpg
+about: 
+  image-shape: round
+  image-width: 50em
 ---
 
