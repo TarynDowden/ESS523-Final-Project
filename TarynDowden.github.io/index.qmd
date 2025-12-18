@@ -1,11 +1,17 @@
 ---
-title: "TarynDowden.github.io"
+title: "Taryn Dowden"
+image: dowden.t.picture.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/taryndowden
+    - text: GitHub
+      href: https://github.com/TarynDowden
+    - text: Email
+      href: mailto:taryn.dowden@colostate.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I am a Forest Science MS student at Colorado State University in the Warner College of Natural Resources. I joined the Francis Forest Ecology Lab in 2025 working with remote sensing to model forest structure and fire behavior. I am also a passionate and very involved member of my local community.
